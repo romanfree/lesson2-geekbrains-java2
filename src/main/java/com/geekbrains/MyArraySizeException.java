@@ -1,4 +1,4 @@
 package com.geekbrains;
 
-public class MyArraySizeException {
+public class MyArraySizeException extends Exception{
 }
